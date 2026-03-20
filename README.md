@@ -11,7 +11,7 @@ Instead of just looking at numbers, this dashboard helps answer:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Dashboard image.png)
+![Dashboard]dashboard.png
 
 ---
 
